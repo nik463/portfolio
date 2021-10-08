@@ -1,0 +1,45 @@
+body    {
+    margin: -5px;;
+    margin-top: 0;
+
+}
+#header {
+    
+    border-style: dotted;
+    padding-left: 25px;
+    padding-top: 26px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+}
+.content    {
+    margin: 2px;
+    margin-top: 0;
+    margin color: overscroll-behavior-block: ;
+
+
+    background-color: cyan;
+
+}
+
+#logo   {
+    color:blueviolet ;
+}
+
+#pagesid    {
+    border-style: double;
+    padding: 44px;    
+    color: rgb(7, 6, 7);
+    
+
+    
+}
+
+#pagetitle  {
+    background-color: aquamarine;
+    color: brown;
+
+}           
+
+.pagetitle  {
+    
+}
